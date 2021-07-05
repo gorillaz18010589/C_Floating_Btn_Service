@@ -1,0 +1,2 @@
+rootProject.name = "C_Floating_Btn_Service"
+include ':app'
